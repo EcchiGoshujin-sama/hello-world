@@ -1,2 +1,7 @@
 # hello-world
-I love nekomimis
+<?php
+  $x = 100;
+  $y = 200;
+  echo 
+  $x+$y;
+?>
